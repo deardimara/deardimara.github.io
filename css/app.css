@@ -109,7 +109,7 @@ img {
 }
 
 svg:not(:root) {
-  overflow: hidden;
+  over: hidden;
 }
 
 figure {
@@ -8377,7 +8377,7 @@ body {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
-  background: url("http://blog.dev/images/flower2.png");
+  background: url("https://deardimara.github.io/images/flower2.png");
   background-repeat: no-repeat;
   background-size: 1000px;
 }
